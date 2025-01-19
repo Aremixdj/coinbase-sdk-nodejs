@@ -3,6 +3,7 @@
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
 [![NPM Downloads][npm-downloads]][npmtrends-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-nodejs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-nodejs?ref=badge_shield)
 
 
 The Coinbase Node.js SDK enables the simple integration of crypto into your app. By calling Coinbase's Platform APIs, the SDK allows you to provision crypto wallets, send crypto into/out of those wallets, track wallet balances, and trade crypto from one asset into another.
@@ -232,3 +233,7 @@ await userWallet.loadSeed(seedFilePath);
 [build-size-url]: https://bundlephobia.com/result?p=@coinbase/coinbase-sdk
 [npmtrends-url]: https://www.npmtrends.com/@coinbase/coinbase-sdk
 [npm-downloads]: https://img.shields.io/npm/dw/@coinbase/coinbase-sdk
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-nodejs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcoinbase-sdk-nodejs?ref=badge_large)
